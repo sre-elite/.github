@@ -7,5 +7,5 @@
 - 🌈 欢迎下载学习《SRE实践白皮书》，并通过各种途径提供反馈。
 - 👩‍💻 你可以在官网、微信公众号/视频号、B站、YouTube 上搜索并关注“SRE精英联盟”
 - 🍿 白皮书每个季度定期更新一次，同期还会在各个城市举办 SRE Meetup。
-- 🧙 更多信息，请访问 [联盟官网](https://www.sre-elite.com)
+- 🧙 更多信息，请访问 [sre-elite.com](https://www.sre-elite.com)
 
