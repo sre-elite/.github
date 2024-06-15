@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+**欢迎关注“SRE精英联盟”:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 这是一个由一线 SRE 主管经理及以上级别的管理专家组成的组织。
+🌈 欢迎下载学习《SRE实践白皮书》，并通过各种途径提供反馈。
+👩‍💻 你可以在官网、微信公众号/视频号、B站、YouTube 上搜索并关注“SRE精英联盟”
+🍿 白皮书每个季度定期更新一次，同期还会在各个城市举办 SRE Meetup。
+🧙 更多信息，请访问 [联盟官网](https://www.sre-elite.com)
+
