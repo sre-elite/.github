@@ -4,7 +4,7 @@
 **欢迎关注“SRE精英联盟”:**
 
 - 🙋‍♀️ 这是一个由一线 SRE 主管经理及以上级别的管理专家组成的组织。
-- 🌈 欢迎下载学习《SRE实践白皮书》，并通过各种途径提供反馈。
+- 🌈 欢迎下载学习[《SRE实践白皮书》](https://github.com/sre-elite/whitepaper/releases)，并通过各种途径提供反馈。
 - 👩‍💻 你可以在微信公众号/视频号、B站、YouTube 上搜索并关注“SRE精英联盟”
 - 🍿 白皮书每个季度定期更新一次，同期还会在各个城市举办 SRE Meetup，以及 infoQ 的 SRE 专场。
 - 🧙 更多信息，请访问官网 [sre-elite.com](https://www.sre-elite.com)
